@@ -9,7 +9,7 @@
 ### About
 
 -  **Learning :** :shield: Web security | :seedling: Life
--  **Hobbies :** :crescent_moon: Cantopop | :8ball: Billiards
+-  **Hobbies :** :crescent_moon: Cantopop | :pick: Minecraft | :8ball: Billiards
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
