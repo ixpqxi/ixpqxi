@@ -13,9 +13,8 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<a href="https://github.com/ixpqxi">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ixpqxi&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=vue&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=ixpqxi&hide_title=true&layout=compact&theme=vue&hide_border=true" />
-</a>
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics">
+</p>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
