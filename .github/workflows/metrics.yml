@@ -1,0 +1,37 @@
+# 完整文档请参考：https://github.com/lowlighter/metrics#-documentation
+name: Metrics
+
+on:
+  # 定时任务：每天北京时间凌晨 5:00 左右自动更新（UTC 时间 21:00）
+  schedule:
+    - cron: "0 21 * * *"
+  
+  # 允许在 Actions 页面手动点击按钮触发更新
+  workflow_dispatch:
+  
+  # 当 main 或 master 分支有代码推送时触发更新
+  push:
+    branches:
+      - "master"
+      - "main"
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    
+    # 赋予 Action 将生成的 svg 图片写回您仓库的权限（核心配置）
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # 核心安全凭证：自动读取您在仓库中配置的密码
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # 基础个人信息配置
+          user: ixpqxi
+          template: classic
+          base: activity, community, repositories
+          config_timezone: Asia/Shanghai
