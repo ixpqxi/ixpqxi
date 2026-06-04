@@ -33,5 +33,5 @@ jobs:
           # 基础个人信息配置
           user: ixpqxi
           template: classic
-          base: activity, community, repositories
+          base: activity, community
           config_timezone: Asia/Shanghai
