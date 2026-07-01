@@ -4,7 +4,7 @@
 
 
 ### ixpqxi
-[![Blog Badge](https://img.shields.io/badge/-My_Blog-323330?style=flat-square&logo=rss&logoColor=white&link=https://ixpqxi.github.io/)](https://ixpqxi.github.io/) [![FreeBuf Badge](https://img.shields.io/badge/-FreeBuf-29ae61?style=flat-square&logo=shield&logoColor=white&link=https://www.freebuf.com/author/ixpqxi)](https://www.freebuf.com/author/ixpqxi) 
+[![Blog Badge](https://img.shields.io/badge/-My_Blog-323330?style=flat-square&logo=rss&logoColor=white&link=https://ixpqxi.github.io/)](https://ixpqxi.github.io/) [![FreeBuf Badge](https://img.shields.io/badge/-FreeBuf-29ae61?style=flat-square&logo=shield&logoColor=white&link=https://www.freebuf.com/author/ixpqxi)](https://www.freebuf.com/author/ixpqxi) [![EDUSRC Badge](https://img.shields.io/badge/-EDUSRC-007ec6?style=flat-square)](https://src.sjtu.edu.cn/profile/17607)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
